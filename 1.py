@@ -29,3 +29,8 @@ print(s);
 
 s1={100:"Ankush saini", 102:"Sahil saini", 103:"Ayush Sharma"};
 print(s1);
+
+# INITIALIZATION AND DECLARING
+print("Value Of A,B,C and D ")
+A,B,C,D=10,20,"ANKUSH SAINI","SainiAnkushgithub"
+print(A,B,C,D);
